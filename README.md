@@ -1,7 +1,7 @@
 # MoreVanillaMod✨
 Mindustry mod by adding functional buildings and units to help in campaign mode (only serpulo).
 
-even tanks!🔥
+even tank and helicopter!🔥
 
 # Information🗒️
 I will give you two interesting information from this mod.
