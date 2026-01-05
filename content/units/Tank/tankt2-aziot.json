@@ -6,7 +6,7 @@ health: 640
 armor: 10
 omniMovement: false
 rotateSpeed: 2.8
-treadPullOffset: 5
+treadPullOffset: 1
 rotateShooting: false
 hitSize: 18
 range: 180
@@ -74,7 +74,7 @@ weapons: [
 			outline: false
 			moveX: 0
 			moveY: -2
-			layer: 70
+			layer: 61
 			x: 0
 			y: 0
 			}
@@ -84,7 +84,7 @@ weapons: [
 			outline: false
 			moveX: 0
 			moveY: 0
-			layer: 75
+			layer: 62
 			x: 0
 			y: 0
 			}
@@ -99,5 +99,8 @@ weapons: [
 		{ item: titanium, amount: 2000},
 		{ item: graphite, amount: 1400},
 		{ item: silicon, amount: 1500}
+    	],
+    	objectives: [
+    		more-vanilla-tank-uv-reconstructor-aditive
     	]
 	}

@@ -68,5 +68,8 @@ weapons: [
 		{ item: titanium, amount: 500},
 		{ item: graphite, amount: 450},
 		{ item: silicon, amount: 400}
+    	],
+    	objectives: [
+    		more-vanilla-tank-unit-factory
     	]
 	}
