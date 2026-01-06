@@ -14,6 +14,10 @@ I will give you two interesting information from this mod.
 
 #1.71 (small update)
 
+-improving bundles.
+
+-adding little detail to raptor helicopter. 
+
 -fixing helicopter effect. when the rotor rotates, there is white smoke under the helicopter.
 
 #1.7
